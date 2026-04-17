@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kauan-ferreira-dev.
+- 👋 Hi, I’m @okauanferreira.
 - 👀 I’m interested in: GDScript, Python and C++.
 - 🌱 I’m currently learning: Game Development in Godot Engine.
 - 📫 How to reach me: On my personal portfolio or my social media.
